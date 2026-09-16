@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Hans Raj Chauhan 👋
 
-<!--
-**hansrajchauhan/hansrajchauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Web Developer
 
-Here are some ideas to get you started:
+I have basic knowledge and practical experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- C
+- C++
+
+## 🚀 Currently Learning
+
+- Web Development
+- Git & GitHub
+- Building real-world projects
+
+## 🛠️ Skills
+
+HTML | CSS | JavaScript | PHP | MySQL
+
+## 📂 Projects
+
+Coming soon...
+
+## 📫 Contact
+
+More details coming soon.
